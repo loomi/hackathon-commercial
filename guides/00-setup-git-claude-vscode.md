@@ -132,10 +132,12 @@ Agora conecte o Claude à sua conta.
 
 Por fim, traga o projeto para sua máquina.
 
+> Repositório do projeto: **https://github.com/loomi/hackathon-commercial**
+
 1. Abra o terminal no VSCode (`` Ctrl+` ``)
-2. Rode o comando abaixo trocando `<url>` pela URL que o mentor vai passar:
+2. Rode o comando abaixo:
    ```bash
-   git clone <url>
+   git clone https://github.com/loomi/hackathon-commercial
    ```
 3. Entre na pasta do projeto:
    ```bash
